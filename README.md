@@ -13,10 +13,13 @@ bought or sold for and Low is the lowest price the stock traded
 for. Volume is the total amount of stocks traded that day. The
 Adjusted Close is the more comprehensive closing value that
 takes into account other forms of stock trading, like dividends
-and rights offerings. We will be predicting the Adjusted Close
+and rights offerings. We will be predicting the Adjusted Close with diffferent periods of EMA.
 
 # Collaborators:
 Tran Nguyen
+
 Daeyoung Hwang
+
 Dexxer Medina
+
 Nishara Hysmith
