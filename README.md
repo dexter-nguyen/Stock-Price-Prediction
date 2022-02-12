@@ -2,7 +2,6 @@
 Collaborative project to predict stock price using Regression and Neural Network Models
 
 Group Project to predict stock price with K-nearest neighbors Regression (KNN), Linear Regression, and Long Short Term Memory (LSTM).
- 
 We decided to use the Pandas DataReader to download data based
 on the stock ticker name from Yahoo Finances. For our project we decided to get stock
 market values dating back from January 2017 to mid November in 2021 giving us a decent size of training and testing
@@ -16,7 +15,7 @@ Adjusted Close is the more comprehensive closing value that
 takes into account other forms of stock trading, like dividends
 and rights offerings. We will be predicting the Adjusted Close
 
-Collaborators:
+# Collaborators:
 Tran Nguyen
 Daeyoung Hwang
 Dexxer Medina
