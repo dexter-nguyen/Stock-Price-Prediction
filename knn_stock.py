@@ -1,7 +1,6 @@
 #-------------------------------------------------------------------------
 # FILENAME: knn_stock.py
 # SPECIFICATION: Stock price prediction with KNN regression
-# FOR: CS 4210- Group Project
 #-----------------------------------------------------------*/
 from datetime import date
 import ta 
