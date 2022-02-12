@@ -1,4 +1,4 @@
-# Stock-Price-Prediction
+# 📈 Stock-Price-Prediction
 Collaborative project to predict stock price using Regression and Neural Network Models
 
 Group Project to predict stock price with K-nearest neighbors Regression (KNN), Linear Regression, and Long Short Term Memory (LSTM).
