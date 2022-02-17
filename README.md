@@ -14,6 +14,7 @@ for. Volume is the total amount of stocks traded that day. The
 Adjusted Close is the more comprehensive closing value that
 takes into account other forms of stock trading, like dividends
 and rights offerings. We will be predicting the Adjusted Close with diffferent periods of EMAs.
+The accuracy will be measure by: Mean Absolute Error (MEA), Root-Mean-Squared Error (RMSE), and Coefficient of Determination (R2)
 
 # Collaborators:
 Tran Nguyen
