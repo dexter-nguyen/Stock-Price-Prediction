@@ -19,8 +19,8 @@ The accuracy will be measured by: Mean Absolute Error (MEA), Root-Mean-Squared E
 # KNN-Regression
 To reduce the complexity of the algorithm, I decided to
 only use n = 2 features since all data points are located in
-n-dimensional space. I tested K-neighbor from 1 to 25 and refitted
-the algorithm using negative MAE scoring  for the best result since further neighbors will introduce
+n-dimensional space. This program will test K-neighbor from 1 to 25 and refit
+the model using negative MAE scoring  for the best result since further neighbors will introduce
 more bias to the current price.
 
 
