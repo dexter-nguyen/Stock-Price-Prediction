@@ -16,6 +16,14 @@ takes into account other forms of stock trading, like dividends
 and rights offerings. We will be predicting the Adjusted Close with diffferent periods of EMAs.
 The accuracy will be measured by: Mean Absolute Error (MEA), Root-Mean-Squared Error (RMSE), and Coefficient of Determination (R2)
 
+#KNN-Regression
+To reduce the complexity of the algorithm, I decided to
+only use n = 2 features since all data points are located in
+n-dimensional space. I tested K-neighbor from 1 to 25 and refitted
+the algorithm using negative MAE scoring  for the best result since further neighbors will introduce
+more bias to the current price.
+
+
 # Collaborators:
 Tran Nguyen
 
