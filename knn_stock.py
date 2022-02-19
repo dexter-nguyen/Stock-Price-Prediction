@@ -261,7 +261,6 @@ def shift_day(frame, num):
 
 
 # --------------------------------------------------------------------------------------
-cond = True
 ticker = input("Enter the stock ticker: ")
 choice = input(
     " 1. Chart Comparision\n 2. Prediction for the next day\n 3. Exit\nPlease enter your selection: ")
