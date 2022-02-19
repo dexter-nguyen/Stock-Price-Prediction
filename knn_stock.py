@@ -1,4 +1,5 @@
 # -------------------------------------------------------------------------
+# AUthor: Tran Nguyen
 # FILENAME: knn_stock.py
 # SPECIFICATION: Stock price prediction with KNN regression
 # -----------------------------------------------------------*/
