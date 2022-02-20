@@ -23,7 +23,7 @@ n-dimensional space. This program will test K-neighbor from 1 to 25 and refit
 the model using negative MAE scoring  for the best result since further neighbors will introduce
 more bias to the current price.
 ![image](https://user-images.githubusercontent.com/58058227/154827252-7ef82fd6-0cae-42d1-a1a2-d0f3e6bab524.png)
-<img src="https://user-images.githubusercontent.com/58058227/154827307-e6949b5d-31df-4a70-9d88-5fc5f0f7d3f9.png" style="width=100px";"height=100%";>
+<img src="https://user-images.githubusercontent.com/58058227/154827307-e6949b5d-31df-4a70-9d88-5fc5f0f7d3f9.png" style="width=100px;height=100%";>
 
 
 # Collaborators:
