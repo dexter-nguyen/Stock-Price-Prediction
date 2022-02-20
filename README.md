@@ -22,6 +22,7 @@ only use n = 2 features since all data points are located in
 n-dimensional space. This program will test K-neighbor from 1 to 25 and refit
 the model using negative MAE scoring  for the best result since further neighbors will introduce
 more bias to the current price.
+![image](https://user-images.githubusercontent.com/58058227/154827252-7ef82fd6-0cae-42d1-a1a2-d0f3e6bab524.png)
 
 
 # Collaborators:
